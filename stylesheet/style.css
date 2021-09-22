@@ -1,0 +1,45 @@
+body{font-family: "Montserrat","Helvetica Neue",Arial,sans-serif !important}
+#myNavbar .nav{
+	font-size: 0.78em !important;
+}
+.content{ margin-top:70px; margin-bottom:40px}
+.msg{ text-align:center; margin-top:100px}
+.msg h1{font-size:40px; font-weight:bold}
+.txt p{font-size:18px !important;}
+.clearfix{clear:both}
+.footer{background:#f8f8f8;text-align:center;min-height:200px}
+.footercontainer{padding-bottom:50px;}
+.footercontheader h5{font-size:15px; font-weight:bold !important; padding:15px 0 5px 0}
+.footercontent{}
+.copyright{ background:#e0e0e0;padding-top:11px; }
+@media screen and (max-width : 768px) {
+	
+.msg h1{ padding:0 !important;}
+
+}
+.pgheader{ font-weight:bold; padding-bottom:20px}
+.pgheader2{font-weight:bold; margin:0 0 20px 0; font-size:18px}
+.value{font-size:16px}
+.infos{font-size:16px; font-weight:bold;color:#FFFFFF;background-color:#007BFF;padding:15px 0 15px 15px;}
+.values{padding:15px 0px 15px 15px;}
+.infoscont{box-shadow:5px 5px 15px 1px #888888;margin:0 0 40px 0}
+.aproposdemoi{box-shadow:5px 5px 15px 1px #888888;padding:15px 15px 15px 15px;font-size:16px}
+.apropos{box-shadow:5px 5px 15px 1px #888888; padding:15px 8px 15px 8px;margin-bottom:40px}
+.techskills, .langskills{box-shadow:5px 5px 15px 1px #888888; padding:15px 8px 15px 8px; margin-bottom:40px}
+.skillvalue{text-align:right}
+.skillheader{font-size:16px; font-weight:bold}
+.progbar{padding:0 20px 0 20px}
+.langskills p{font-size:18px; font-weight:bold}
+.whitebox{color:#2C2C2C;padding-bottom:15px }
+.bluebox{background-color:#007BFF;color:#FFFFFF;text-align:center;padding-bottom:15px}
+@media screen and (min-width : 992px) {	
+.boxes {display:flex; align-items:stretch}
+}
+.boxes{box-shadow:5px 5px 15px 1px #888888; margin-bottom:20px}
+.blueboxhead {padding:30px 0 5px 0; font-size:16px} 
+.whiteboxhead{padding:20px 0 10px 0; font-size:18px; font-weight:bold; text-align:center}
+.blueboxcont{ font-size:20px; font-weight:bold;padding:5px 0 5px 0;}
+.whiteboxcont{font-size:16px;}
+.experience, .education{margin:0 20px 0 20px}
+.work{padding:15px}
+.work a{text-decoration:none; color:black}
